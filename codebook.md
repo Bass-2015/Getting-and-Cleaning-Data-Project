@@ -5,7 +5,7 @@ This codebook summarizes and explains the data shown in the average-data.txt fil
 
 Below is a list of all 66 variables.
 
-"tBodyAccMeanX" 
+"tBodyAccMeanX"
 "tBodyAccMeanY" 
 "tBodyAccMeanZ" 
 "tBodyAccStdX" 
